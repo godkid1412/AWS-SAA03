@@ -22,3 +22,8 @@ Trong AWS áp dụng:least privilege principle (phân quyền ít nhất): khôn
 
 - Nhấn Add user
   <img width="1284" alt="image" src="https://user-images.githubusercontent.com/54473576/224477879-ec591b04-f44f-4529-b683-7ca87b12d9cf.png">
+
+- Điền tên người dùng vào ô `user name`
+- 
+  <img width="1680" alt="image" src="https://user-images.githubusercontent.com/54473576/224478362-961fade1-9bb4-4d29-9034-be742811319a.png">
+
